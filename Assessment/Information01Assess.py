@@ -28,6 +28,13 @@ alice = paragraph.lower()
 # Strip punctuation 
 alice = ''.join([c for c in alice if c in chars])
 
-#test print
-print (alice) 
+# get length of paragraph
+N = len(alice)
 
+# generate random characters from chars and set strign length to 1000 letters.
+gener = random.choices(chars, k=1000)
+
+#join letters into a string
+gener = ''.join(gener)
+
+print(gener)
