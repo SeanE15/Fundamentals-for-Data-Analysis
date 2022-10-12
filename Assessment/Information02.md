@@ -34,8 +34,13 @@ $$ 0^0 = {0 \over 0} = Undefined$$
 
 **<p align="center"> References**\
 <https://www.britannica.com/science/real-number>
+
 <https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown>
+
 <https://meta.stackexchange.com/questions/226869/how-can-i-add-the-mathematical-symbol-for-power-like-x-2-to-a-question>
+
 <https://www.youtube.com/watch?v=oT2li3nOWmc> 
+
 <https://www.youtube.com/watch?v=yw8PSfd_48s>
+
 <https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0>
