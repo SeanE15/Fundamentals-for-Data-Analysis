@@ -8,20 +8,23 @@ Lecturer: Dr Ian McLoughlin__
 ---
 
 The question for this weeks assessment was asked, 'why the log of zero is undefined?'.
-After much youtube research and frantic googling the research I have done have pointed out that log 0 is undefined as it is not a 'real' number.
+After much youtube research and frantic googling the research I have done has pointed out that log 0 is undefined as it is not a 'real' number.
 
 According to Britannica 'Real number, in mathematics, a quantity that can be expressed as an infinite decimal expansion. Real numbers are used in measurements of continuously varying quantities such as size and time, in contrast to the natural numbers ... arising from counting. The word real distinguishes them from the imaginary numbers'.
 
-One cannot get zero by raising to the power of anything else; the end result will never reach zero, you can only get close to 0 by using an infinitely 
+One cannot get zero by raising to the power of anything else; the end result will never reach zero, you can only get close to 0 by using an infinitely
 large and negative power.
 
 I have illustrated below the break down of what happens from a mathematical standpoint when trying to define the log of 0, and why it is undefined.
 
 
-
-<p align="center"> 0<sup>0</sup> = 0<sup>1</sup><sup>-1
-<p align="center"> 0<sup>0</sup> = 0<sup>1</sup> x 0<sup>-1</sup>
-<p align="center">0<sup>0</sup> = 0 x $\frac{1}{0}$
+<p align="center">
+0</sup> = 0<sup>1</sup><sup>-1
+<p align="center">
+0<sup>0</sup> = 0<sup>1</sup> x 0<sup>-1</sup>
+<p align="center">
+0<sup>0</sup> = 0 x $\frac{1}{0}$
+<p align="center">
 0<sup>0</sup> = \frac{0}{0} 'Undefined'
 
 
@@ -29,7 +32,7 @@ I have illustrated below the break down of what happens from a mathematical stan
 
 ---
 
-References:\
+**<p align="center"> References**\
 https://www.britannica.com/science/real-number\
 https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown
 https://meta.stackexchange.com/questions/226869/how-can-i-add-the-mathematical-symbol-for-power-like-x-2-to-a-question\
