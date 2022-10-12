@@ -32,7 +32,8 @@ $$ 0^0 = {0 \over 0} = Undefined$$
 
 ---
 
-**<p align="center"> References**\
+**<p align="center"> References**
+
 <https://www.britannica.com/science/real-number>
 
 <https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown>
