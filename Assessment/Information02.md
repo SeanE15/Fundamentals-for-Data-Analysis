@@ -22,10 +22,10 @@ I have illustrated below the break down of what happens from a mathematical stan
 0</sup> = 0<sup>1</sup><sup>-1
 <p align="center">
 0<sup>0</sup> = 0<sup>1</sup> x 0<sup>-1</sup>
-<p align="center">
-0<sup>0</sup> = 0 x $\frac{1}{0}$
-<p align="center">
-0<sup>0</sup> = \frac{0}{0} 'Undefined'
+
+$$ 0^0 = 0 x {1 \over 0} $$
+
+$$ 0^0 = {0 \over 0} = Undefined$$
 
 
 
