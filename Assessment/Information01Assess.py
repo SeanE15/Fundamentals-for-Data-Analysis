@@ -39,7 +39,7 @@ pairs = ' '
 
 for i in range(1, N):
     # Get the weights where the previous character is the last character in twos.
-    wt = twoghts[pairs[-2]]
+    wt = twoghts[pairs[-1]]
     # turn wt to a list , ordered by chars 
     wt =[wt[c] for c in chars]
     # Randomly pick the next character using those weights.
