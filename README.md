@@ -5,7 +5,7 @@
 
 # Introduction:
 
-### Hello, and welcome to my github repository. This repo has been created in order to satify the work required to complete the Fundamentals for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the weekly jupyter notebooks which I have compiled throughout the course and a project which focuses ont he analysis of 'The Normal Distribution'.
+### Hello, and welcome to my github repository. This repo has been created in order to satify the work required to complete the Fundamentals for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the weekly jupyter notebooks which are stored in the 'Practicals' folder that I have compiled throughout the course and a project which focuses on the analysis of 'The Normal Distribution'.
 
 ----
 
@@ -26,3 +26,9 @@
 ### [3] type "Jupyter notebook" and press "Enter"
 
 ### [4] Your browser should automatically start and open up in the jupyter notebook program, if it doesn't a URL link should displace on the cmder screen. 
+
+----
+
+# References:
+
+### [1] https://jackmckew.dev/make-a-readme-documentation-with-jupyter-notebooks.html
