@@ -3,11 +3,29 @@
 ### Due Date: last commit on or before 07/01/2023
 ----
 
-## <div align="center">Introduction</div>
+### <div align="center">Introduction</div>
 
-Hello, and welcome to my github repository. This reposiroty has been created in order to satify the work required to complete the Fundamentals for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the weekly jupyter notebooks which are stored in the 'Practicals' folder that I have compiled throughout the course and a project which focuses on the analysis of 'The Normal Distribution' and it's uses.
+Hello, and welcome to my github repository. This repository has been created in order to satify the work required to complete the Fundamentals for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the weekly jupyter notebook tasks which are stored in the 'Practicals' folder. I have compiled these throughout the course. There is also a project which focuses on the analysis of 'The Normal Distribution' and it's statistical uses in data analysis.
 
-The breakdown of the headings in the project are as follows:
+---- 
+
+**The breakdown of the 'Practicals' folder content is as follows:**
+
+[1] data_sets (the two data sets required for the 'Outliers' exercises)
+
+[2] Information Exercises - Jupyter Notebook
+
+[3] Randomness Exercises - Jupyter Notebook
+
+[4] Bias Exercises - Jupyter Notebook
+
+[5] Outliers Exercises - Jupyter Notebook
+
+[6] Data Cleansing Exercises - Jupyter Notebook
+
+----
+
+**The breakdown of the headings within the Normal Distribution project are as follows:**
 
 [1] What is the Normal Distribution?
 
@@ -69,7 +87,7 @@ Please see the official [Installation](https://jupyterlab.readthedocs.io/en/stab
 
 ----
 
-## <div align="center">References</div>
+## <div align="center">References for Readme</div>
 
 [1] https://jackmckew.dev/make-a-readme-documentation-with-jupyter-notebooks.html
 
@@ -77,6 +95,8 @@ Please see the official [Installation](https://jupyterlab.readthedocs.io/en/stab
 
 ## <div align="center">Credits</div>
 
-My wife Donna McCafferty for her patience
-Google and its many wonders
-Dr Ian Mc Loughlin
+- My wife Donna McCafferty for her patience
+
+- Google and its many wonders
+
+- Dr Ian Mc Loughlin
