@@ -43,11 +43,21 @@ Hello, and welcome to my github repository. This repository has been created in 
 
 [8] Interquartile Range and Empirical Rule
 
-[9] Creating a random Normal Distribution
+[9] Kurtosis
 
-[10] Relevance of the Normal Distribution
+[10] Skewness
 
-[11] References
+[11] Creating a random Normal Distribution
+
+[12] Probability Density Function
+
+[13] Relevance of the Normal Distribution & Real-World Occurences
+
+[14] Problems/Limitations of the Normal Distribution
+
+[15] Conclusion
+
+[16] References
 
 ----
 
@@ -99,4 +109,4 @@ Please see the official [Installation](https://jupyterlab.readthedocs.io/en/stab
 
 - Google and its many wonders
 
-- Dr Ian Mc Loughlin
+- Dr Ian McLoughlin
